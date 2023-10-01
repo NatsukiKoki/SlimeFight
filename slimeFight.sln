@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "slimeFight", "slimeFight\slimeFight.vcxproj", "{2B6FDCED-1CE6-4A44-9ADF-106141FF26D8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SlimeFightSetup", "SlimeFightSetup\SlimeFightSetup.vdproj", "{3BFCEF51-33A0-4AEB-870A-95D1B5D22FE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B6FDCED-1CE6-4A44-9ADF-106141FF26D8}.Debug|x64.ActiveCfg = Debug|x64
+		{2B6FDCED-1CE6-4A44-9ADF-106141FF26D8}.Debug|x64.Build.0 = Debug|x64
+		{2B6FDCED-1CE6-4A44-9ADF-106141FF26D8}.Debug|x86.ActiveCfg = Debug|Win32
+		{2B6FDCED-1CE6-4A44-9ADF-106141FF26D8}.Debug|x86.Build.0 = Debug|Win32
+		{2B6FDCED-1CE6-4A44-9ADF-106141FF26D8}.Release|x64.ActiveCfg = Release|x64
+		{2B6FDCED-1CE6-4A44-9ADF-106141FF26D8}.Release|x64.Build.0 = Release|x64
+		{2B6FDCED-1CE6-4A44-9ADF-106141FF26D8}.Release|x86.ActiveCfg = Release|Win32
+		{2B6FDCED-1CE6-4A44-9ADF-106141FF26D8}.Release|x86.Build.0 = Release|Win32
+		{3BFCEF51-33A0-4AEB-870A-95D1B5D22FE3}.Debug|x64.ActiveCfg = Debug
+		{3BFCEF51-33A0-4AEB-870A-95D1B5D22FE3}.Debug|x86.ActiveCfg = Debug
+		{3BFCEF51-33A0-4AEB-870A-95D1B5D22FE3}.Release|x64.ActiveCfg = Release
+		{3BFCEF51-33A0-4AEB-870A-95D1B5D22FE3}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47C6EF6B-AF95-4975-93C6-6810E7DDAED6}
+	EndGlobalSection
+EndGlobal

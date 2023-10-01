@@ -1,0 +1,255 @@
+﻿  brick.cpp
+  bullet2.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933\include\numbers(12): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\bullet2.cpp(91,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\bullet2.cpp(92,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\bullet2.cpp(93,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\bullet2.cpp(94,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\bullet2.cpp(98,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\bullet2.cpp(102,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\bullet2.cpp(106,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\bullet2.cpp(110,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication3.cpp
+  CreateBackground.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933\include\numbers(12): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\CreateBackground.cpp(48,72): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\CreateBackground.cpp(49,80): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\CreateBackground.cpp(50,88): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\CreateBackground.cpp(51,80): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\CreateBackground.cpp(68,79): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\CreateBackground.cpp(69,87): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\CreateBackground.cpp(70,95): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\CreateBackground.cpp(71,87): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  CreateHorde.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933\include\numbers(12): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+  item.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933\include\numbers(12): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+  ItemManager.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933\include\numbers(12): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+  map.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933\include\numbers(12): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\map.cpp(19,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\map.cpp(19,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\map.cpp(21,17): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\map.cpp(26,19): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\map.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\map.cpp(242,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\map.cpp(242,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\map.cpp(244,17): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\map.cpp(249,19): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\map.cpp(271,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  monster.cpp
+  Pickup.cpp
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\Pickup.cpp(30,20): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\Pickup.cpp(31,20): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\Pickup.cpp(59,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\Pickup.cpp(59,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\Pickup.cpp(117,34): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\Pickup.cpp(121,32): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  role.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933\include\numbers(12): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\role.cpp(22,19): warning C4552: '+': result of expression not used
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\role.cpp(31,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\role.cpp(156,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\role.cpp(252,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\role.cpp(253,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\role.cpp(254,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\role.cpp(255,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\role.cpp(260,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\role.cpp(264,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\role.cpp(268,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\role.cpp(272,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\role.cpp(283,26): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\role.cpp(287,26): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\role.cpp(297,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\role.cpp(301,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\role.cpp(307,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\role.cpp(311,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\role.cpp(376,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\role.cpp(394,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\role.cpp(406,155): warning C4305: 'argument': truncation from 'double' to 'float'
+  room.cpp
+  TextureHolder.cpp
+  Trap.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933\include\numbers(12): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\Trap.cpp(98,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\Trap.cpp(108,56): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\Trap.cpp(109,58): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\Trap.cpp(130,52): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Zombie.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933\include\numbers(12): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\Zombie.cpp(51,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\Zombie.cpp(55,18): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\Zombie.cpp(61,56): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\Zombie.cpp(62,55): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\Zombie.cpp(65,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\Zombie.cpp(66,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\Zombie.cpp(189,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\Zombie.cpp(202,27): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\Zombie.cpp(203,27): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\Zombie.cpp(204,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\Zombie.cpp(222,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\Zombie.cpp(234,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\Zombie.cpp(241,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ZombieArena.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933\include\numbers(12): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\ZombieArena.cpp(31,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\ZombieArena.cpp(32,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\ZombieArena.cpp(34,56): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\ZombieArena.cpp(34,42): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\ZombieArena.cpp(402,38): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\ZombieArena.cpp(403,41): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\ZombieArena.cpp(404,61): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\ZombieArena.cpp(405,60): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\ZombieArena.cpp(432,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GNXUO\source\repos\slimeFight\slimeFight\ZombieArena.cpp(707,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  slimeFight.vcxproj -> C:\Users\GNXUO\source\repos\slimeFight\x64\Debug\slimeFight.exe
